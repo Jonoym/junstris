@@ -1,4 +1,4 @@
-# junstris
+# Junstris
 Tetris coded in Java.
 
 The project started in July of 2021 during my semester break to further develop my understanding of Java, JavaFX and intefaces. The game was coded in Java after my university Java course which delved into the importance of cohesion and coupling and the use of model-view-controller separation. 
